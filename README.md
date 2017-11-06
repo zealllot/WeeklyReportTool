@@ -1,14 +1,9 @@
 # WeeklyReportTool  
-
 1.E-mail your weekly report to a specific E-mail address.  
 2.Remind you of updateing your weekly report.  
-  
-  
-  
-  
 本程序的主要功能是  
-        1、自动发送你已经编辑完的周报至指定的邮箱。  
-	2、如果你忘了写周报，发送邮件至你指定的邮箱来提醒你。  
+1、自动发送你已经编辑完的周报至指定的邮箱。  
+2、如果你忘了写周报，发送邮件至你指定的邮箱来提醒你。  
   
   
 编辑email.env文件来进行配置,右键打开方式，用记事本打开。  
