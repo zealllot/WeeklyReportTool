@@ -1,15 +1,14 @@
-# WeeklyReportTool  
-1.E-mail your weekly report to a specific E-mail address.  
-2.Remind you of updateing your weekly report.  
-本程序的主要功能是  
-1、自动发送你已经编辑完的周报至指定的邮箱。  
-2、如果你忘了写周报，发送邮件至你指定的邮箱来提醒你。  
-  
-  
-编辑email.env文件来进行配置,右键打开方式，用记事本打开。  
+# WeeklyReportTool
+## What can we do?
+- E-mail your weekly report to a specific E-mail address automatically.  
+- Remind you of updateing your weekly report by sending a warning email.  
 
-  
-  
+## 本程序的主要功能  
+- 自动发送你已经编辑完的周报至指定的邮箱。  
+- 如果你忘了写周报，发送提示邮件至你指定的邮箱来提醒你。  
+*************************************  
+编辑email.env文件来进行配置,右键打开方式，用记事本打开。  
+
 ------------------------------------------------------------------------
   
 腾讯企业邮箱服务器 HOST="smtp.exmail.qq.com"  
