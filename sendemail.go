@@ -64,7 +64,6 @@ func main() {
 //
 //               佛祖保佑         永无BUG
 //
-//     Copyright © 2017 - 2017  YaoBin All Rights Reserved
 //`
 	fmt.Println(s)
 
